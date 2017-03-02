@@ -1,1 +1,1 @@
-SUBDIRS = core ui/systray-ui modules/mod-clamav modules/mod-pdf modules/mod-yara 
+SUBDIRS = armadito-core ui/systray-ui modules/mod-clamav modules/mod-pdf modules/mod-yara 
