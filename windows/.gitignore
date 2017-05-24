@@ -1,3 +1,7 @@
+## Adds
+deps/
+deps-*.zip
+
 ##
 ## From: https://github.com/github/gitignore (A collection of useful .gitignore templates)
 ##
